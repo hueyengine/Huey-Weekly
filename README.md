@@ -19,3 +19,6 @@
 
 ## 文章博客
 [分享二十个web前端开发日常必备网站](./https://www.cnblogs.com/tntweb/p/18022879)
+
+## 规范协议
+[ECMAScript 2015 Language Specification - Modules](./https://tc39.es/ecma262/#sec-modules)
