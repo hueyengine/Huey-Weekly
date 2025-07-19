@@ -1,4 +1,4 @@
-<img width="502" height="53" alt="image" src="https://github.com/user-attachments/assets/fb3953e2-945c-4c59-980e-48402887054c" /># Huey-Tech
+# Huey-Tech
 甄选国内外前端领域的优质科技资讯，洞悉行业最新进展，助力技术成长之旅。
 
 ## 社区平台
