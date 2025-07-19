@@ -2,9 +2,9 @@
 甄选国内外前端领域的优质科技资讯，洞悉行业最新进展，助力技术成长之旅。
 
 ## 社区平台
-[DEV Community](./https://dev.to/)
+[DEV Community](https://dev.to/)
 
-[CSS-Tricks](./https://css-tricks.com/)
+[CSS-Tricks](https://css-tricks.com/)
 
 [TechCrunch](https://techcrunch.com/)
 
