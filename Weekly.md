@@ -1,4 +1,8 @@
 # 2025
+
+## 第二期
+[designer-spotlight-ning-huang/](https://tympanus.net/codrops/2025/05/17/designer-spotlight-ning-huang/): A spotlight on Ning Huang, a Taipei-based digital designer who blends no-code tools and AI to craft expressive, motion-rich web experiences.
+
 ## 第一期
 [How to Keep Up With New CSS Features](https://css-tricks.com/how-to-keep-up-with-new-css-features/)
 
