@@ -8,6 +8,8 @@
 
 [TechCrunch](https://techcrunch.com/)
 
+[Medium](https://medium.com/)
+
 
 ## 团队甄选
 [TNT-Weekly](./https://github.com/tnfe/TNT-Weekly)：🙈 🙉 🙊 为您甄选国内外前端领域的优质资讯，洞悉行业最新进展，助力技术成长之旅。
